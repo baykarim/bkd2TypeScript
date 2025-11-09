@@ -1,0 +1,11 @@
+# Ignorer le dossier de build
+dist/
+
+# Modules Node
+node_modules/
+
+# Lock files
+package-lock.json
+
+# Logs
+*.log
